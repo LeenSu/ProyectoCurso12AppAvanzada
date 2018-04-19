@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Face App</string>
+    <string name="facebook_app_id">400572973687932</string>
+    <string name="fb_login_protocol_scheme">fb400572973687932</string>
+
+    <string name="id_banner">ca-app-pub-1417865905492941/3437606150</string>
+</resources>
